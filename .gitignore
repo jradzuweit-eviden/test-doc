@@ -1,0 +1,9 @@
+BUILD/
+temp/
+tmp/
+log/
+.idea
+**/*.log
+**/*.tmp
+**/~*
+
